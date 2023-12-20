@@ -1,17 +1,22 @@
-# NSMB-MarioVsLuigi
-A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
+# NSMB-MvL-FBOC
+A stupid mod that shouldn't be taken seriously, has a lot of changes for some reason and yeah, that's all?
 
-Includes the 5 default levels (Grassland, Bricks, Castle, Pipes, and Ice), along with a handful of custom levels to battle on! 
-All power-ups are included and remain faithful to their original counterparts, along with the new addition of the Propeller Suit & Ice Flower!
+Don't ask why the mod's name is FBOC...
+
+Includes the default and custom levels from the original MvL and probably gonna add custom levels too...
+
+All power-ups in here are the originals. Im to stupid to actually do custom stuff (it's the first time i use Unity give me a break!)
 
 ## Discord
-[**Join the discord**](https://discord.gg/dgKVaUKpj5) to keep up to date with the development of the game, make feature suggestions, report bugs (if you're too lazy to use issues...), get technical support, look for people to play with, and just talk about the game!
+[**Join the MvL discord**](https://discord.gg/dgKVaUKpj5) because why not?
 
 ## Download
 
-[Play now in browser on itch.io!](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)
+THERE IS NO DOWNLOAD YET BECAUSE I'M LAZY, STUPID, AND SERIOUSLY WHY WOULD YOU WANT TO PLAY IT THERE'S ONLY MUSIC CHANGES NOW
 
-Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest
+[I should get this on itch.io too, here's the og one cuz im stoopid!](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)
+
+og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest
 
 ## Default Controls
 | Action | Keyboard | Gamepad *(unstable)* |
@@ -26,7 +31,7 @@ Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLui
 | UI Confirm | Left Mouse / Enter / Z | A Button |
 
 <details>
-  <summary><h2>Opening in Unity Editor</h2></summary>
+  <summary><h2>Opening in Unity Editor (Why would you do that?)</h2></summary>
 
 1. Install Unity 2022.1.9f1 (or newer) via Unity Hub (Installs > Install Editor > Scroll to bottom)
 2. Download and install [git](https://git-scm.com/downloads). Do NOT use the .zip download, as it will cause errors within Unity.
@@ -42,10 +47,11 @@ Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLui
 <details>
   <summary><h2>Credits</h2></summary>
 
-### Original Content:
+### Original Content!:
 * New Super Mario Bros.
 * New Super Mario Bros. Wii
 * Super Mario Maker 2
+* Mario Kart Wii
 
 ### Contributors:
 * [@ipodtouch0218](https://github.com/ipodtouch0218)
