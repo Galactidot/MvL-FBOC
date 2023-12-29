@@ -3,7 +3,9 @@ A stupid mod that shouldn't be taken seriously, has a lot of changes for some re
 
 Don't ask why the mod's name is FBOC...
 
-Includes the default and custom levels from the original MvL and probably gonna add custom levels too...
+Includes the default and custom levels from the original MvL, and two new! Castle Rooftop made by me and Giddy Sky by FrostyCake yippee
+
+Also reskins! Currently only Ice has one and it's unfinished smh
 
 All power-ups in here are the originals. Im to stupid to actually do custom stuff (it's the first time i use Unity give me a break!)
 
@@ -12,11 +14,11 @@ All power-ups in here are the originals. Im to stupid to actually do custom stuf
 
 ## Download
 
-THERE IS NO DOWNLOAD YET BECAUSE I'M LAZY, STUPID, AND SERIOUSLY WHY WOULD YOU WANT TO PLAY IT THERE'S ONLY MUSIC CHANGES NOW
+It's worth to be played :)
 
-[I should get this on itch.io too, here's the og one cuz im stoopid!](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)
+[I got this on itch.io!](https://foxyyy-92.itch.io/mvl-fboc)
 
-og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest
+Releases!: https://github.com/Foxyyy92/MvL-FBOC/releases
 
 ## Default Controls
 | Action | Keyboard | Gamepad *(unstable)* |
@@ -52,6 +54,7 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * New Super Mario Bros. Wii
 * Super Mario Maker 2
 * Mario Kart Wii
+* Super Princess Peach
 
 ### Contributors:
 * [@ipodtouch0218](https://github.com/ipodtouch0218)
@@ -66,18 +69,24 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * [@ShadowWalker13](https://github.com/ShadowWalker13)
 * [@GithubSPerez](https://github.com/GithubSPerez)
 * [@mindnomad](https://github.com/mindnomad)
+* Frosty lmao
 
 ### Music:
 * [RENREN](https://mistajub.bandcamp.com/)
+* Me lol
 
 ### QA Testing:
 * TheCyVap
 * Shadow_Walker13
+* Me lol
+* Frosty
+* Blue
   
 ### Level Design:
 * Skarph
 * TheCyVap
 * mindnomad
+* Me lol
  
 ### Rippers:
   
@@ -103,5 +112,6 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * Skarph (Models/Sound)
 * LukeWarnut (Sound)
 * Luke Hackett (Sound)
+* You already know
 
 </details>
