@@ -1,20 +1,20 @@
-# NSMB-MvL-FBOC
-A stupid mod that shouldn't be taken seriously, has a lot of changes for some reason and yeah, that's all?
+# NSMB-MvL-Foxyyy's Bunch o' Crap (FBOC)
+A stupid mod that can be taken seriously now, has a lot of changes for some reason and yeah, that's all?
 
-Don't ask why the mod's name is FBOC...
+Yeah, that's FBOC. Pretty funny right...
 
-Includes the default and custom levels from the original MvL, and two new! Castle Rooftop made by me and Giddy Sky by FrostyCake yippee
+Includes the default and custom levels from the original MvL, and **FOUR** new! Castle Rooftop and Mountain made by me, Giddy Sky by FrostyCake and Mushroom Valley by BluCor and Among
 
-Also reskins! Currently only Ice has one and it's unfinished smh
+Also reskins! Currently only Ice and Sky got reskinned, but more coming each update!
 
 All power-ups in here are the originals. Im to stupid to actually do custom stuff (it's the first time i use Unity give me a break!)
 
 ## Discord
-[**Join the MvL discord**](https://discord.gg/dgKVaUKpj5) because why not?
+[**Join the MvL discord**](https://discord.gg/dgKVaUKpj5) because why not? I'm releasing this over there so if you wanna say something just go over there if you aren't already for some reason...
 
 ## Download
 
-It's worth to be played :)
+It's worth to be played AND released in the MvL Discord :)
 
 [I got this on itch.io!](https://foxyyy-92.itch.io/mvl-fboc)
 
@@ -69,7 +69,9 @@ Releases!: https://github.com/Foxyyy92/MvL-FBOC/releases
 * [@ShadowWalker13](https://github.com/ShadowWalker13)
 * [@GithubSPerez](https://github.com/GithubSPerez)
 * [@mindnomad](https://github.com/mindnomad)
-* Frosty lmao
+* FrostyCake
+* BluCor
+* Among
 
 ### Music:
 * [RENREN](https://mistajub.bandcamp.com/)
@@ -80,13 +82,21 @@ Releases!: https://github.com/Foxyyy92/MvL-FBOC/releases
 * Shadow_Walker13
 * Me lol
 * Frosty
-* Blue
+* BluCor
+* BlueSwitchPalace
+* Zombie
+* Kazik
+* Zogistra
+* andriuf
   
 ### Level Design:
 * Skarph
 * TheCyVap
 * mindnomad
 * Me lol
+* FrostyCake
+* BluCor
+* Among
  
 ### Rippers:
   
