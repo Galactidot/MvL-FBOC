@@ -1,22 +1,24 @@
-# NSMB-MvL-FBOC
-A stupid mod that shouldn't be taken seriously, has a lot of changes for some reason and yeah, that's all?
+# NSMB-MvL-Foxyyy's Bunch o' Crap (FBOC)
+A stupid mod that can be taken seriously now, has a lot of changes for some reason and yeah, that's all?
 
-Don't ask why the mod's name is FBOC...
+Yeah, that's FBOC. Pretty funny right...
 
-Includes the default and custom levels from the original MvL and probably gonna add custom levels too...
+Includes the default and custom levels from the original MvL, and **FOUR** new! Castle Rooftop and Mountain made by me, Giddy Sky by FrostyCake and Mushroom Valley by BluCor and Among
+
+Also reskins! Currently only Ice and Sky got reskinned, but more coming each update!
 
 All power-ups in here are the originals. Im to stupid to actually do custom stuff (it's the first time i use Unity give me a break!)
 
 ## Discord
-[**Join the MvL discord**](https://discord.gg/dgKVaUKpj5) because why not?
+[**Join the MvL discord**](https://discord.gg/dgKVaUKpj5) because why not? I'm releasing this over there so if you wanna say something just go over there if you aren't already for some reason...
 
 ## Download
 
-THERE IS NO DOWNLOAD YET BECAUSE I'M LAZY, STUPID, AND SERIOUSLY WHY WOULD YOU WANT TO PLAY IT THERE'S ONLY MUSIC CHANGES NOW
+It's worth to be played AND released in the MvL Discord :)
 
-[I should get this on itch.io too, here's the og one cuz im stoopid!](https://ipodtouch0218.itch.io/nsmb-mariovsluigi)
+[I got this on itch.io!](https://foxyyy-92.itch.io/mvl-fboc)
 
-og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest
+Releases!: https://github.com/Foxyyy92/MvL-FBOC/releases
 
 ## Default Controls
 | Action | Keyboard | Gamepad *(unstable)* |
@@ -52,6 +54,7 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * New Super Mario Bros. Wii
 * Super Mario Maker 2
 * Mario Kart Wii
+* Super Princess Peach
 
 ### Contributors:
 * [@ipodtouch0218](https://github.com/ipodtouch0218)
@@ -66,18 +69,34 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * [@ShadowWalker13](https://github.com/ShadowWalker13)
 * [@GithubSPerez](https://github.com/GithubSPerez)
 * [@mindnomad](https://github.com/mindnomad)
+* FrostyCake
+* BluCor
+* Among
 
 ### Music:
 * [RENREN](https://mistajub.bandcamp.com/)
+* Me lol
 
 ### QA Testing:
 * TheCyVap
 * Shadow_Walker13
+* Me lol
+* Frosty
+* BluCor
+* BlueSwitchPalace
+* Zombie
+* Kazik
+* Zogistra
+* andriuf
   
 ### Level Design:
 * Skarph
 * TheCyVap
 * mindnomad
+* Me lol
+* FrostyCake
+* BluCor
+* Among
  
 ### Rippers:
   
@@ -103,5 +122,6 @@ og thing Windows, Linux, and Mac Builds: https://github.com/ipodtouch0218/NSMB-M
 * Skarph (Models/Sound)
 * LukeWarnut (Sound)
 * Luke Hackett (Sound)
+* You already know
 
 </details>
