@@ -8,10 +8,11 @@ using Photon.Realtime;
 public static class PhotonExtensions {
 
     private static readonly Dictionary<string, string> SPECIAL_PLAYERS = new() {
-        ["cf03abdb5d2ef1b6f0d30ae40303936f9ab22f387f8a1072e2849c8292470af1"] = "ipodtouch0218",
-        ["d5ba21667a5da00967cc5ebd64c0d648e554fb671637adb3d22a688157d39bf6"] = "mindnomad",
-        ["95962949aacdbb42a6123732dabe9c7200ded59d7eeb39c889067bafeebecc72"] = "MPS64",
-        ["7e9c6f2eaf0ce11098c8a90fcd9d48b13017667e33d09d0cc5dfe924f3ead6c1"] = "Fawndue",
+        ["719bef8979a8452bb83d778ffd1f6b8062e8e4193700156e4afb301e57ff9f87"] = "Foxyyy",
+        ["54100a304da2609613d2ad8a602a6c1413ea5e010458ece966c14dff6f8eaa64"] = "FrostyCake",
+        ["1e18a301bec9e219262b11b442350a9fafcde83a1ccc82fa54fe0eaccf1d33db"] = "BluCor",
+        ["ea2f23d83904ba5f6646f58b1b926f57166e8898711cea4400c2e7777dfeee7d"] = "Zogistra",
+        ["f0e6d35759562db51f00e1e0d89ccf524f364069f1863c10e336f8dbd054b43b"] = "andriuf",
     };
 
     public static bool IsMineOrLocal(this PhotonView view) {
