@@ -1,0 +1,6319 @@
+fileFormatVersion: 2
+guid: 17f8809bc86557845ae9ca95c87fe5b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112fd2cb0b0f284794cd686cf10892d
+      internalID: -508094135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7340693782844e951ef01cac9bb4a
+      internalID: 767388010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319deb82a4cffb24d807d51e0625bac8
+      internalID: -1023463068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01868a5df9735c64aab4904d0983dd44
+      internalID: -57365243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f777b7e9bf67e14599da407c5c798eb
+      internalID: -700424444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f9838d28ba914899137f16509658c
+      internalID: 1900788436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -15, y: -16}
+        - {x: 16, y: 15}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47d18f2ebc2da469f1f53df9002666
+      internalID: 866249178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f8a7cdd5bfeb47bceb168a2f9f9ad
+      internalID: 1096694400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa60fe82f6c1df43a601409212b4d4d
+      internalID: 978635896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: 15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb332a34471dcc458815571516b0600
+      internalID: -541846208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24db96d99fe97e44a8695ba31393c58
+      internalID: -455636760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_14
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c301b7af858b15418b7ae64017d585d
+      internalID: 1395224076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_15
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4747e0c55ef1d4b82f7596ba42906a
+      internalID: 516213084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2769e5357290b8a459d0a062d10a12d9
+      internalID: 170337905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c94cf24a2f195429638b17cf982177
+      internalID: 578215427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ee19062bd32b44a3ef2b79d54d7be
+      internalID: -143573119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec343fd483b8546a7a1e54bf3e55e0
+      internalID: 1493876122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a4a2cdd2c90f43822bb84c478338a
+      internalID: -1466278376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616a374d03bd9f459b45eadc9e70f97
+      internalID: 736490505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79740d3e086718745bb0fc783873cf53
+      internalID: -1871123887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eade8ce8f80ff14e877520afc49145f
+      internalID: 759032474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762252c8081b0541af8146099776edd
+      internalID: 951108183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1da9f8195efe47aa123fe1d94bbf4
+      internalID: 815659789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d27633ec707f34aa3b662860a8e603
+      internalID: -882893023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65d80fa3ae9fa40baaa58a98882c68
+      internalID: 112922316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b58c38a7682e34eaa85a082313af80
+      internalID: -398906272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a9517a0592cb4d9f859631abffb03
+      internalID: 563673636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: 15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bfec0a66623e24cb49d5fe31173873
+      internalID: 1962056878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_33
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204a166921c0d44daef0b2d21f87034
+      internalID: -1526241939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_34
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8119333a5ec146ad2bc20cc940b5e
+      internalID: -298480888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbc8cc1436e4f4b97a80db4633fbdf
+      internalID: 677570617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd900198bb584746b447fc1a0e5df42
+      internalID: 1647386947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd29be9a338c194287527a0c1b0b1eb
+      internalID: -1891197598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c37dd27a034d459a94ad614527a26
+      internalID: 925158530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f1204615be924eaa2b3666b2a55e2
+      internalID: -596275286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3eca6812a15f44a955f964b0006be0
+      internalID: 2041387852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b41ced9185d34b8fc18601d94b493
+      internalID: 965913034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05724b241104584d8c40c9f681d804f
+      internalID: 390412972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e020e037ed3343947f6ad2c989e85
+      internalID: 418450422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd1022d0d26e4a4a91f849dbb663c58
+      internalID: -1009254678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1017ae709c89f49974e9ab3546c797
+      internalID: -1680048106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_46
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c5099c58b9d5479a5af0b9917eee6
+      internalID: 1023594022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36088dd6d2dcf4389f31453a6a3174
+      internalID: -2080516117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09b271a931c5e4e8571da3009ecb19
+      internalID: -848987113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773b4470d658e9429c444c589255cc8
+      internalID: 1932380012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_52
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674071b95bff3a44cb3de424b0390af6
+      internalID: -605108772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_53
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328124916e6b2a243b2b940a463a2442
+      internalID: 712488674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_54
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1f0e8ffd32774a83e3f11859a20cc
+      internalID: 2035577074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_55
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687311d2ed1c4a04b864406613929d1d
+      internalID: -957650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_56
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80f54ae381bf741a406122cf27cea8
+      internalID: -782574162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_57
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1da148dec8b184d8aa9b99fda46ee0
+      internalID: -785126965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 503
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ae140a2f2292408346d8c320c5337
+      internalID: 569220476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd8b19a04c9ed45bfb470bc408417c
+      internalID: 731620687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aca818e9c177a4eb0a909df3de7608
+      internalID: 1740838086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67477611811c3f41827a38943c36d7b
+      internalID: -1758854175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8dfd3be2e6a44882769f45a25bcd0
+      internalID: -748757105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b927ea2c1d77b49b7f64257bb1bc50
+      internalID: -1419451728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19150d5bbdedc894db7757bb4f626df0
+      internalID: -690137821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_67
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7ae82cf27a1340a6f767370b2faf7
+      internalID: -1695858035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c392166f2205d4bb28541b7c14ca61
+      internalID: -1621820617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_69
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71a73e3386e7e4b96211675a0d733a
+      internalID: -524505119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf8ba79cbce2342badd6f2839c7fd5
+      internalID: -1188634151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d09fd3c59a17a4899bc28285f2856b
+      internalID: 1239599243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4322cc2f8c20e149a51a08000ace94a
+      internalID: 1032217563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea5781c29dc8946a23b71ad92922d8
+      internalID: 47281370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ba2faca744e9459b93199d3d22334
+      internalID: 217051753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f454a6fa231b9494693504d9c77e5ed8
+      internalID: 1577558035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f5c8a3c44fde047b98bd90690057bf
+      internalID: -675462986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe296c410a4cd56409eb7dca64640980
+      internalID: -887641843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_80
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f725ff811b8b44bdd0ede9c55d4aa
+      internalID: -1845241428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5721cde768dd4fae60800ee7dc7db
+      internalID: -621600595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_82
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a255a3f2d683f48b0ffcb807514980
+      internalID: -1760833366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_85
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe7c741ee367014a850cafbad55b949
+      internalID: -392559751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_86
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b5f8153ab60864890d976806c5ee1b
+      internalID: 1874956665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2732a8b5dd61409b421cf3265bd6c
+      internalID: -526418621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafdad7ef0ec51499ed33ff5542bc3f
+      internalID: -90935304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ccb410da34d24fac07a54d62e4b52
+      internalID: -334505607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4893f182a6ea149a1e5136915707f2
+      internalID: 1731281189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_91
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f245ceebb20642b9a8dcd20524b4d
+      internalID: 1039024281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_92
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bfa3f44bc27b47b325cc8d0557dff
+      internalID: 703488271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0474c30e170b49a88c0e95a579920
+      internalID: 676644580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8fde5beda6da4cb8a36c6b6c1c94f
+      internalID: 1078061234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30760be90f28d084fb5531c3b57dc8e6
+      internalID: 1708757791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_97
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ad64675e0365459e1cba53eb0dbd2
+      internalID: -1407028256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_98
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b88e331b519e4da501d1b44b27a0b
+      internalID: -2070323746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da84343bf307e9f40a9c1545e845e5ac
+      internalID: -1444918200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_100
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71212dac51eef4398d3c6ce34e8508
+      internalID: -2136842136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_101
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a52a1a06472c47ae696b5deca2d5d
+      internalID: 175924483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_104
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae9cfc42e0b664bb81aefb8e240618
+      internalID: 277161275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466478fda63267945a95c0a066d5d883
+      internalID: 957597441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_106
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df9e354ffda1644a70533023d78956
+      internalID: 1199886158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_107
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad132bb9b56b14e8f681edf6a292bd
+      internalID: -890094800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae926d8fc61c6e4e99edf180bc103a6
+      internalID: -1374375926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87839ecfdda09254b981f1782ae4c96c
+      internalID: 543402992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf229fadd75b4d4fb8322b8e8d387a0
+      internalID: 235799774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef7efc7a9773741a1cde1354c46569
+      internalID: 1198884974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_113
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58127ec562a1e464db3fa17f05f389a1
+      internalID: 1768407838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_114
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e71cccf384eb9d4fa1ab84282c37917
+      internalID: 1555692821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_115
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1acf2ec4c7be408b97dc322feab51
+      internalID: 562259891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6cf86fca91a24d825bfefae01c0dc
+      internalID: -2039058590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_117
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665f86ba03e05634da2a66c7ace865b5
+      internalID: 221383013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_118
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850a9cac695b1d24bb36349c71cd49f2
+      internalID: -622797474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_123
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317126a424f44a48b8e7b3e9584af19
+      internalID: 1377533870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_124
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7394c0c53bf88324d84c3c267eef5f24
+      internalID: 1963368310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_125
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53104393af9abd45a62d0ef12502971
+      internalID: -1116432716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_126
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b8ed8526256e4d85e99703dcbc79b
+      internalID: 313242872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_127
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9e9011a0f1f84f843a106edff1f0d
+      internalID: -326247874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_128
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff15c2924d41747af0bd449b8dbe23
+      internalID: -1461455473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_129
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e316114c5b2b4fab2ef3feb6d259e
+      internalID: 300170779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_130
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a42d56b038fdf40885a3fa47dfa55c
+      internalID: -418322456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a8db5cb323bff4a841e50150b15e13
+      internalID: 1734930361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dce07126c974d14998999708281e0ac
+      internalID: 177505801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_134
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbfb3fbb5dbdb947bce9eaa14055ff0
+      internalID: -1465057602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_136
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20266dd74e948854e80f70b132fdffc9
+      internalID: 493946219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_137
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f55b8ed1ed63840be1c6d26372b11b
+      internalID: -777394848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac830a1470d0a045b572cea52140f8e
+      internalID: -582036286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_139
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33402d297df9f7241b8224d5fd3498b0
+      internalID: -559445022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_140
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5386f0c7954d4cc47988d968fa156896
+      internalID: -1436336772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a0681bb5f0cc49a500a8061624d1b
+      internalID: -1988419768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_144
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb3ed7207ba3364388325c56c6c0c92
+      internalID: -1305852285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_145
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc341bbd725ff47915b53416963fac
+      internalID: -2094774833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_146
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41ba7cd8adb0342b55273a81a92740
+      internalID: 642520607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_147
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d4ee41db9e8240a76e52efced81be
+      internalID: 773777850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_148
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66eb5ea2bcf444479c74a7e03c3eb56
+      internalID: 171188971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_149
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1cd46278631b479c8891759b2b889
+      internalID: 1530568249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_150
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63453f9188efa748a3b02e97fb2deba
+      internalID: 542417617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_151
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925c8741538a284281637cf978d97aa
+      internalID: 113746706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_153
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5234d3e0fb5e674bbfb87b024313c06
+      internalID: 1705377167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_154
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cd7fac1116454b919b3acbeb2f594
+      internalID: -984424904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_155
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b79c3fb9fe9724a9a7691f4bc7669f
+      internalID: -443796938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_156
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37738cb2f3a57548a913f730b07699c
+      internalID: 803710123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_157
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c930941d366e6f42a781f8288d468ea
+      internalID: 765285450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_158
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ff8b9fd5e5e2468e11290633e7a9b
+      internalID: -1995416471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_159
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d524151ecb7e4d91baad017ff9868
+      internalID: 361791305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_160
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05752f0cbb910408194bb4d57c9d10
+      internalID: 1641659372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_161
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f406a2b259e442bdff190747286b9
+      internalID: 351110081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_162
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf3660b598045647b6610fb8648d3b7
+      internalID: -1857204139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_165
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474bc8861a9d6e4a8781efdccc349d1
+      internalID: -95295418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_166
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de218e399f2186940bc2a8144d4595c5
+      internalID: -634075948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_167
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd20c7aadeca14aa2e90b894097862
+      internalID: -1296861398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_168
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7acdb354253356498791861fcc9354e
+      internalID: -1631278667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_169
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820becc82fb882498bd60131ddc9ac6
+      internalID: 1135661148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_170
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465eab7ce48a13498eb561ae3c1d805
+      internalID: -796912988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_173
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e3fbd083170f40b3e69d6c06dab7e
+      internalID: 538604019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_174
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036999e00c2e4e46b163a8484a9a17c
+      internalID: -925983326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_175
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c54316f89d14243a1cc107fa337d30
+      internalID: -1939652813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_176
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4e120d97b04874dafaa81557e121a6
+      internalID: -1177527309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_177
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf239d6104bedf4419aa4d616702b70a
+      internalID: 325895391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_178
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0972d4c917a82439c3f28ed23654a9
+      internalID: 869243682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_179
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15141f097619f2d49bf73a1be4b55725
+      internalID: -1170468543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_180
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a666c47abd4d438fd56c7bd711fd6
+      internalID: -1491610110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_181
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5017dd2bc0659543b8de08ea64cb2d8
+      internalID: -2117789851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_184
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522220f2b8ac99640a8028e3c2903881
+      internalID: 1010829430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_185
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9bb23ac3fdfa243a5ca1a80981f887
+      internalID: -775060357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_186
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8c17563eb97641977f2dc39fbf8f2
+      internalID: 116415656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_187
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373a7ca4050b1241b480dc1b6bfcd6f
+      internalID: -1285415357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_188
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f768e0180dc09e4fa533baf884e7fae
+      internalID: 847591419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_189
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea81be966edaf904e8de184d36f65f73
+      internalID: -342977659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_190
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e75015883564595d176c3fb279f4
+      internalID: -530805961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_191
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8972812d15f3647a1dc48bb95b8ff4
+      internalID: 846767363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_192
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7879cc8452fbb40807a9f073575b85
+      internalID: 884452383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_193
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407a06d3d9cd4e04c83b8002d42c9bc6
+      internalID: -1732490488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_194
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf90c5f9e47fda46854c2be16a8bfc3
+      internalID: -2099211141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_195
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3eb5ea992561e41849601fcabc99e8
+      internalID: -1282761284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_196
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac246aeffac7f448303a2af801e552
+      internalID: -874597223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_197
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68f3953b4c8c744b689e4d9c1c7d32
+      internalID: -1323212493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_198
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f9841fd8fd3d479ba51d8ea6f3ee6
+      internalID: 503864669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_199
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f650c5ae2b5494d8f6c99487cf2dfa
+      internalID: -406790637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_200
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483031b3e0dc7a46a2c33542f6d70a9
+      internalID: 348271338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_201
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4cdd3690ab724e9c31e3bb9b97cf8
+      internalID: -1865485565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_202
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561de263d3ee5d94c9639889a1c177ac
+      internalID: 820351914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_203
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015837b8c2170be4c902ec39c96e69c6
+      internalID: -1434274676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_204
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57249acfc494ef448dca48426b65998
+      internalID: -84296507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_205
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2e46a5d89e0d48be90f726bc9724f
+      internalID: -1458851701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_207
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d6eaadfde0a549bd54a9053920f6b
+      internalID: -777485151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_208
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b7a32455078b43a4314febf127b29
+      internalID: 207393694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_209
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ff9ecc8c88414eb7368afd3b4e275
+      internalID: -1372336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_210
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57215d39d82a2f49bebcea6cec76450
+      internalID: 1343528644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_212
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac0bc27f589b01469187da0935f509b
+      internalID: -998770118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_213
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2807c65874a541aac094881f637b6
+      internalID: 681898628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_214
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f99941ac90ef4a87fe1b3a50d988e
+      internalID: 189612977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_215
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545090e1c98b674baf43b8e1a517297
+      internalID: 614570708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_216
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff10d30eb3ae34198affffe7fbfd60
+      internalID: 791907817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_217
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20594d9ccfd727b49bb8dafc6c3d57ca
+      internalID: 448659053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_218
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ca79ae70d5224984aab1db682be43
+      internalID: 433173292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_219
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b969d7c3ae7c4bb79643f05565fe9
+      internalID: 1538454974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_220
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c211817fa860e84cb9864385f6d495f
+      internalID: -1129892558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_221
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcbdbf1efaa58043b53fa0d236c6b6c
+      internalID: -564758104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_222
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0fd849c1cdac479e5a9c56ed230e2
+      internalID: 1011693406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_223
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541274189e83ec45b949822bbfa62a8
+      internalID: -762840598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_224
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd13ed0ecc70d43a09c22f9f33863d
+      internalID: 696897974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_225
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbb076a3755d142819451fa7964b05
+      internalID: 455887435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_226
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e74dfeec667c4f9fca0591fba8253
+      internalID: 1111307669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_227
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2988daba59a44296ecbf1f573028c
+      internalID: 195094765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_229
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a061d3a79af4d4a9980fb6395f8ee9
+      internalID: 1445507156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_230
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f2a6a783630147828e23843a5426c
+      internalID: 1184302310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_231
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ab5bd241326349a824c9ddc7454ac
+      internalID: -1970494085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_232
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc1cacc2d80894e9cc5a30320e652a
+      internalID: 1546177425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_234
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500dfe5e59d02c44b5d77bcd30508f8
+      internalID: 170853595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_235
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48525769f959884f9e6b2158ee3368d
+      internalID: 1816492424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_236
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51d0c7d435e0a458403be99b3ccf5d
+      internalID: -303951839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_237
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd859e7af248e3c4da3ce6a37d78961f
+      internalID: 740072890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_238
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66dcb58135e0a3419071cbdd74488ca
+      internalID: -1427679928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_239
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d379ed5c28f2604c90f4b987859344e
+      internalID: -1394481831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_240
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefa231fe3248a46a373ca7b497b712
+      internalID: 2040219235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_241
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f92a202bf97f44418732342e56bf837
+      internalID: -1882419719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_244
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ce4390f323484c904080335c87542
+      internalID: -680217235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_245
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481e156c470e9ba469ea759e6efea1f5
+      internalID: -1842156872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_246
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae2dc98caced74aa8ecb433284a2d4
+      internalID: -228878845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_247
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501a44a9c2aa3f48811ef119f291f41
+      internalID: -1375773176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_248
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7413acd306f31f4c8cebecebf8a499e
+      internalID: 1167215046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_249
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a7c95efeb358f4597522e968291993
+      internalID: 1232705661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_252
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aedd5e8f993602439e6b19c194be4a7
+      internalID: -551496899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_253
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97bcd350e9ff04fa40aafb19b9f3f7
+      internalID: 2123021387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_256
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e936d5600880c4d9216953cbda72cb
+      internalID: 351721874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_257
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f3737350ca65429024d46d980c12b
+      internalID: 921877818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_258
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd490757978a3724fad063bce99f8702
+      internalID: 1852206013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_259
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8289ab64295b24eb40d687aa645b93
+      internalID: 1123205847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_260
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca8fffc7f11b24aae6fbc7e4907dc2
+      internalID: 306433965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_261
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e422f89d33b84aba023ae22262bb1
+      internalID: 1476967461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_262
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b585c4f87658ee42a4a415eb3943b1e
+      internalID: 198641671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_263
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9524fdc4fb0980449c85fd41a8fe9c3
+      internalID: 643839070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_265
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f8b33ee5329443bf16703fcf52a6f
+      internalID: -236274353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_266
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523c32845d7de94cb7458881d11e5d2
+      internalID: 337803089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_267
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c991d6fd0529e42a55f0fc40c890cc
+      internalID: -269054234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_268
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d250b0ceb4fcd4e92beeb644f80e67
+      internalID: -2022111163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_269
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5971f1d591854db4bb97000a8a13919e
+      internalID: -1953520737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_270
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126a866f3581324389d5bc7797259ae
+      internalID: 1912958703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_272
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f27818db09f70f4e99867b8e14340c2
+      internalID: -2134104542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_273
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37640bc97da34454ca3d792d50e2341c
+      internalID: -1466901191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_275
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ce0645dccb23408ffe2291b456cae
+      internalID: 747958721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_276
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b220450d319240910306fa6c00e8c
+      internalID: -1997494901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_277
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d5a1d9324684a4e911e793818739d2
+      internalID: -275259486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_278
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f08a13662d9e3479c6ebd7672842dc
+      internalID: -797105429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_279
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7d9e63657f9c4098e23e2f41b1c01
+      internalID: 1637365971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_280
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22caebcbed90e4a8a902dc2a61baa7
+      internalID: 77715055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_281
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1b0487db6f604aa51f915d5643674
+      internalID: -1653133673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_282
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdff52b7b88d0842828a3ee3a73b389
+      internalID: -285340387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_283
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365175cc8910f44b9fc10db7d3da756
+      internalID: -396643573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_284
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031047f188d734b4ab670dcaf8e0073e
+      internalID: 1024292405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_285
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f94be8c30b01d41a54c577fe121c55
+      internalID: 1451420452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_286
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743e790f7f053a4d9f81123126eb15b
+      internalID: -643058397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_290
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100c9889ae1e0742b8558c2454b9bb8
+      internalID: -2054067767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_291
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1a69327786ee4b96cd6ebf31fd899
+      internalID: -202241029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_292
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634db0ccf1c36241b188cbedbcfb1b9
+      internalID: -743097003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_293
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 113
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7708839802cecf64abb90c9fcb1b5870
+      internalID: -1110182739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_296
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e20be4578f9cc46becf260c4895459
+      internalID: 1427893449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_297
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5c963bfb257f4eae8cb971f77b435
+      internalID: 1481510077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_298
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef62e7e613f3a4883363d9ae437db5
+      internalID: -1077629845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_299
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d000ef08190748bdaf64383670614
+      internalID: -1971442722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_300
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b1efd1ffb9a9419349a9b33572d0a
+      internalID: 1480019652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_301
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24d17f59aa8a246add6f62d5491c4f
+      internalID: -2059464791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_302
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bcc25826858c14a9cd87fab9570a27
+      internalID: -999205432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_303
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e81317b82fe164995a7befb6eebd2b
+      internalID: -1453869659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_304
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b8220ddd59054da5aaa020c466dad
+      internalID: -2141801761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_305
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a474cf0374e2643a61662c27c99c09
+      internalID: 447295363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_306
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571836757d074a45aad0adaeb97101d
+      internalID: -470844687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_307
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410289811a8c4443b5c6ef21b15d357
+      internalID: -1632942794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_309
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bff93acf5404d4f85c67d6f56552ed
+      internalID: -1003951008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_310
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec67a98076632242a6a940ab4e31da2
+      internalID: 843053441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_313
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6003e3455c9084ea2089adffd2e502
+      internalID: -1222133438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_314
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f42c3b4a799c74794996830704e20a
+      internalID: -1201014731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_315
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed57b12efcc2fe45a7038eb85f6c815
+      internalID: 1045080896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_316
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28d300b1a2040419729b47fdb99706
+      internalID: 389863955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_319
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4961d5b1afde1b3498b419c392a5408e
+      internalID: 517375626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_320
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f58c055ee755045bbdb43c5ede6081
+      internalID: -982975802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_328
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0579b4e3921764891b6f8d83adde16
+      internalID: 1531106031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_330
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f3440c4f00104c8e9efca3d5279b3
+      internalID: 1236306540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_332
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf8d4b196125341924d5e7a9896591
+      internalID: -89448251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_333
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eecaa38d89c53449e953cc204cb2ba
+      internalID: 1649714444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_335
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529668df6cd0c148bb2dff7176df81a
+      internalID: 1073182776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_336
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88dc0fb509d6814fb107ec988489455
+      internalID: -340215761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4acb60370af2484aa93de7e74c0621c
+      internalID: -304906468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4af81f8f65044889e6b50c47ca512
+      internalID: 1996956711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d209f045bed99478c1de3a10e4b074
+      internalID: -932364815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEAD LINE TILESET_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347eeabc54f8c644903db369b874b96
+      internalID: 1557734442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DEAD LINE TILESET_48: 488494563
+      DEAD LINE TILESET_247: -1375773176
+      DEAD LINE TILESET_62: -748757105
+      DEAD LINE TILESET_14: 1395224076
+      DEAD LINE TILESET_158: -1995416471
+      DEAD LINE TILESET_336: -340215761
+      DEAD LINE TILESET_194: -2099211141
+      DEAD LINE TILESET_22: -1871123887
+      DEAD LINE TILESET_314: -1201014731
+      DEAD LINE TILESET_315: 1045080896
+      DEAD LINE TILESET_113: 1768407838
+      DEAD LINE TILESET_30: -398906272
+      DEAD LINE TILESET_212: -998770118
+      DEAD LINE TILESET_121: 311989741
+      DEAD LINE TILESET_264: 1389553894
+      DEAD LINE TILESET_268: -2022111163
+      DEAD LINE TILESET_9: 1096694400
+      DEAD LINE TILESET_175: -1939652813
+      DEAD LINE TILESET_248: 1167215046
+      DEAD LINE TILESET_254: 2018702786
+      DEAD LINE TILESET_270: 1912958703
+      DEAD LINE TILESET_277: -275259486
+      DEAD LINE TILESET_144: -1305852285
+      DEAD LINE TILESET_173: 538604019
+      DEAD LINE TILESET_46: 1023594022
+      DEAD LINE TILESET_233: 1085537126
+      DEAD LINE TILESET_289: 112948458
+      DEAD LINE TILESET_100: -2136842136
+      DEAD LINE TILESET_303: -1453869659
+      DEAD LINE TILESET_143: 140361472
+      DEAD LINE TILESET_39: -596275286
+      DEAD LINE TILESET_61: -1758854175
+      DEAD LINE TILESET_159: 361791305
+      DEAD LINE TILESET_126: 313242872
+      DEAD LINE TILESET_228: 277201354
+      DEAD LINE TILESET_97: -1407028256
+      DEAD LINE TILESET_4: -700424444
+      DEAD LINE TILESET_17: 578215427
+      DEAD LINE TILESET_266: 337803089
+      DEAD LINE TILESET_42: 390412972
+      DEAD LINE TILESET_67: -1695858035
+      DEAD LINE TILESET_111: 1198884974
+      DEAD LINE TILESET_256: 351721874
+      DEAD LINE TILESET_171: -462020150
+      DEAD LINE TILESET_241: -1882419719
+      DEAD LINE TILESET_24: 951108183
+      DEAD LINE TILESET_211: -868194070
+      DEAD LINE TILESET_239: -1394481831
+      DEAD LINE TILESET_0: -508094135
+      DEAD LINE TILESET_137: -777394848
+      DEAD LINE TILESET_165: -95295418
+      DEAD LINE TILESET_316: 389863955
+      DEAD LINE TILESET_43: 418450422
+      DEAD LINE TILESET_300: 1480019652
+      DEAD LINE TILESET_335: 1073182776
+      DEAD LINE TILESET_206: 618146878
+      DEAD LINE TILESET_160: 1641659372
+      DEAD LINE TILESET_148: 171188971
+      DEAD LINE TILESET_302: -999205432
+      DEAD LINE TILESET_312: -170970370
+      DEAD LINE TILESET_12: -932364815
+      DEAD LINE TILESET_16: 170337905
+      DEAD LINE TILESET_154: -984424904
+      DEAD LINE TILESET_176: -1177527309
+      DEAD LINE TILESET_99: -1444918200
+      DEAD LINE TILESET_7: 1996956711
+      DEAD LINE TILESET_245: -1842156872
+      DEAD LINE TILESET_1: 767388010
+      DEAD LINE TILESET_180: -1491610110
+      DEAD LINE TILESET_274: -794482101
+      DEAD LINE TILESET_87: -526418621
+      DEAD LINE TILESET_234: 170853595
+      DEAD LINE TILESET_55: -957650
+      DEAD LINE TILESET_200: 348271338
+      DEAD LINE TILESET_223: -762840598
+      DEAD LINE TILESET_123: 1377533870
+      DEAD LINE TILESET_168: -1631278667
+      DEAD LINE TILESET_279: 1637365971
+      DEAD LINE TILESET_49: -2080516117
+      DEAD LINE TILESET_114: 1555692821
+      DEAD LINE TILESET_310: 843053441
+      DEAD LINE TILESET_288: 192345958
+      DEAD LINE TILESET_54: 2035577074
+      DEAD LINE TILESET_125: -1116432716
+      DEAD LINE TILESET_117: 221383013
+      DEAD LINE TILESET_15: 516213084
+      DEAD LINE TILESET_57: -785126965
+      DEAD LINE TILESET_305: 447295363
+      DEAD LINE TILESET_257: 921877818
+      DEAD LINE TILESET_313: -1222133438
+      DEAD LINE TILESET_334: 1323616567
+      DEAD LINE TILESET_41: 965913034
+      DEAD LINE TILESET_26: -882893023
+      DEAD LINE TILESET_78: -675462986
+      DEAD LINE TILESET_324: 322973960
+      DEAD LINE TILESET_25: 815659789
+      DEAD LINE TILESET_45: -1680048106
+      DEAD LINE TILESET_122: 1117662008
+      DEAD LINE TILESET_204: -84296507
+      DEAD LINE TILESET_52: -605108772
+      DEAD LINE TILESET_209: -1372336090
+      DEAD LINE TILESET_153: 1705377167
+      DEAD LINE TILESET_207: -777485151
+      DEAD LINE TILESET_29: 112922316
+      DEAD LINE TILESET_262: 198641671
+      DEAD LINE TILESET_293: -1110182739
+      DEAD LINE TILESET_70: -1188634151
+      DEAD LINE TILESET_271: 1347373359
+      DEAD LINE TILESET_275: 747958721
+      DEAD LINE TILESET_199: -406790637
+      DEAD LINE TILESET_243: -120406923
+      DEAD LINE TILESET_130: -418322456
+      DEAD LINE TILESET_92: 703488271
+      DEAD LINE TILESET_140: -1436336772
+      DEAD LINE TILESET_47: -1504022579
+      DEAD LINE TILESET_146: 642520607
+      DEAD LINE TILESET_242: -1778387519
+      DEAD LINE TILESET_152: 1506446996
+      DEAD LINE TILESET_291: -202241029
+      DEAD LINE TILESET_237: 740072890
+      DEAD LINE TILESET_179: -1170468543
+      DEAD LINE TILESET_141: -1988419768
+      DEAD LINE TILESET_147: 773777850
+      DEAD LINE TILESET_280: 77715055
+      DEAD LINE TILESET_5: 1900788436
+      DEAD LINE TILESET_71: 1239599243
+      DEAD LINE TILESET_169: 1135661148
+      DEAD LINE TILESET_186: 116415656
+      DEAD LINE TILESET_318: -925619508
+      DEAD LINE TILESET_203: -1434274676
+      DEAD LINE TILESET_326: 1999455552
+      DEAD LINE TILESET_191: 846767363
+      DEAD LINE TILESET_218: 433173292
+      DEAD LINE TILESET_188: 847591419
+      DEAD LINE TILESET_109: 543402992
+      DEAD LINE TILESET_267: -269054234
+      DEAD LINE TILESET_166: -634075948
+      DEAD LINE TILESET_10: 978635896
+      DEAD LINE TILESET_36: 1647386947
+      DEAD LINE TILESET_128: -1461455473
+      DEAD LINE TILESET_213: 681898628
+      DEAD LINE TILESET_331: -710608242
+      DEAD LINE TILESET_155: -443796938
+      DEAD LINE TILESET_139: -559445022
+      DEAD LINE TILESET_85: -392559751
+      DEAD LINE TILESET_124: 1963368310
+      DEAD LINE TILESET_50: -848987113
+      DEAD LINE TILESET_21: 736490505
+      DEAD LINE TILESET_269: -1953520737
+      DEAD LINE TILESET_183: -1037350982
+      DEAD LINE TILESET_164: 2146060
+      DEAD LINE TILESET_281: -1653133673
+      DEAD LINE TILESET_136: 493946219
+      DEAD LINE TILESET_56: -782574162
+      DEAD LINE TILESET_156: 803710123
+      DEAD LINE TILESET_133: 177505801
+      DEAD LINE TILESET_105: 957597441
+      DEAD LINE TILESET_255: 416353175
+      DEAD LINE TILESET_27: 1557734442
+      DEAD LINE TILESET_108: -1374375926
+      DEAD LINE TILESET_90: 1731281189
+      DEAD LINE TILESET_129: 300170779
+      DEAD LINE TILESET_174: -925983326
+      DEAD LINE TILESET_246: -228878845
+      DEAD LINE TILESET_286: -643058397
+      DEAD LINE TILESET_231: -1970494085
+      DEAD LINE TILESET_172: -1280666839
+      DEAD LINE TILESET_308: 1732890575
+      DEAD LINE TILESET_80: -1845241428
+      DEAD LINE TILESET_295: 147665409
+      DEAD LINE TILESET_196: -874597223
+      DEAD LINE TILESET_333: 1649714444
+      DEAD LINE TILESET_252: -551496899
+      DEAD LINE TILESET_220: -1129892558
+      DEAD LINE TILESET_31: 563673636
+      DEAD LINE TILESET_82: -1760833366
+      DEAD LINE TILESET_33: -1526241939
+      DEAD LINE TILESET_287: 1746295640
+      DEAD LINE TILESET_157: 765285450
+      DEAD LINE TILESET_2: -1023463068
+      DEAD LINE TILESET_95: 1078061234
+      DEAD LINE TILESET_216: 791907817
+      DEAD LINE TILESET_162: -1857204139
+      DEAD LINE TILESET_19: 1493876122
+      DEAD LINE TILESET_20: -1466278376
+      DEAD LINE TILESET_219: 1538454974
+      DEAD LINE TILESET_229: 1445507156
+      DEAD LINE TILESET_294: -878821224
+      DEAD LINE TILESET_119: 134846029
+      DEAD LINE TILESET_323: -908388580
+      DEAD LINE TILESET_69: -524505119
+      DEAD LINE TILESET_184: 1010829430
+      DEAD LINE TILESET_292: -743097003
+      DEAD LINE TILESET_227: 195094765
+      DEAD LINE TILESET_53: 712488674
+      DEAD LINE TILESET_91: 1039024281
+      DEAD LINE TILESET_32: 1962056878
+      DEAD LINE TILESET_190: -530805961
+      DEAD LINE TILESET_265: -236274353
+      DEAD LINE TILESET_329: -1724059318
+      DEAD LINE TILESET_215: 614570708
+      DEAD LINE TILESET_51: 1932380012
+      DEAD LINE TILESET_181: -2117789851
+      DEAD LINE TILESET_132: 1734930361
+      DEAD LINE TILESET_192: 884452383
+      DEAD LINE TILESET_185: -775060357
+      DEAD LINE TILESET_225: 455887435
+      DEAD LINE TILESET_131: 237275917
+      DEAD LINE TILESET_13: -455636760
+      DEAD LINE TILESET_115: 562259891
+      DEAD LINE TILESET_149: 1530568249
+      DEAD LINE TILESET_226: 1111307669
+      DEAD LINE TILESET_76: 217051753
+      DEAD LINE TILESET_150: 542417617
+      DEAD LINE TILESET_251: -188288436
+      DEAD LINE TILESET_74: 1740746127
+      DEAD LINE TILESET_299: -1971442722
+      DEAD LINE TILESET_253: 2123021387
+      DEAD LINE TILESET_18: -143573119
+      DEAD LINE TILESET_208: 207393694
+      DEAD LINE TILESET_232: 1546177425
+      DEAD LINE TILESET_290: -2054067767
+      DEAD LINE TILESET_272: -2134104542
+      DEAD LINE TILESET_120: 1318869416
+      DEAD LINE TILESET_37: -1891197598
+      DEAD LINE TILESET_260: 306433965
+      DEAD LINE TILESET_73: 47281370
+      DEAD LINE TILESET_259: 1123205847
+      DEAD LINE TILESET_296: 1427893449
+      DEAD LINE TILESET_282: -285340387
+      DEAD LINE TILESET_35: 677570617
+      DEAD LINE TILESET_327: -245900665
+      DEAD LINE TILESET_161: 351110081
+      DEAD LINE TILESET_258: 1852206013
+      DEAD LINE TILESET_304: -2141801761
+      DEAD LINE TILESET_58: 569220476
+      DEAD LINE TILESET_66: 1473036602
+      DEAD LINE TILESET_11: -541846208
+      DEAD LINE TILESET_332: -89448251
+      DEAD LINE TILESET_177: 325895391
+      DEAD LINE TILESET_182: 1824482424
+      DEAD LINE TILESET_151: 113746706
+      DEAD LINE TILESET_278: -797105429
+      DEAD LINE TILESET_116: -2039058590
+      DEAD LINE TILESET_135: 1953317899
+      DEAD LINE TILESET_325: 1517920406
+      DEAD LINE TILESET_205: -1458851701
+      DEAD LINE TILESET_118: -622797474
+      DEAD LINE TILESET_170: -796912988
+      DEAD LINE TILESET_142: -586482563
+      DEAD LINE TILESET_65: 1629697407
+      DEAD LINE TILESET_202: 820351914
+      DEAD LINE TILESET_217: 448659053
+      DEAD LINE TILESET_197: -1323212493
+      DEAD LINE TILESET_238: -1427679928
+      DEAD LINE TILESET_230: 1184302310
+      DEAD LINE TILESET_23: 759032474
+      DEAD LINE TILESET_236: -303951839
+      DEAD LINE TILESET_221: -564758104
+      DEAD LINE TILESET_261: 1476967461
+      DEAD LINE TILESET_276: -1997494901
+      DEAD LINE TILESET_6: -304906468
+      DEAD LINE TILESET_93: -632224957
+      DEAD LINE TILESET_94: 676644580
+      DEAD LINE TILESET_214: 189612977
+      DEAD LINE TILESET_330: 1236306540
+      DEAD LINE TILESET_317: 1969149872
+      DEAD LINE TILESET_273: -1466901191
+      DEAD LINE TILESET_222: 1011693406
+      DEAD LINE TILESET_98: -2070323746
+      DEAD LINE TILESET_138: -582036286
+      DEAD LINE TILESET_40: 2041387852
+      DEAD LINE TILESET_198: 503864669
+      DEAD LINE TILESET_249: 1232705661
+      DEAD LINE TILESET_309: -1003951008
+      DEAD LINE TILESET_8: 866249178
+      DEAD LINE TILESET_68: -1621820617
+      DEAD LINE TILESET_297: 1481510077
+      DEAD LINE TILESET_28: -350988220
+      DEAD LINE TILESET_321: -1730399995
+      DEAD LINE TILESET_77: 1577558035
+      DEAD LINE TILESET_83: 1835412565
+      DEAD LINE TILESET_75: 380645816
+      DEAD LINE TILESET_145: -2094774833
+      DEAD LINE TILESET_89: -334505607
+      DEAD LINE TILESET_178: 869243682
+      DEAD LINE TILESET_163: 941799209
+      DEAD LINE TILESET_244: -680217235
+      DEAD LINE TILESET_81: -621600595
+      DEAD LINE TILESET_106: 1199886158
+      DEAD LINE TILESET_88: -90935304
+      DEAD LINE TILESET_63: -1419451728
+      DEAD LINE TILESET_285: 1451420452
+      DEAD LINE TILESET_127: -326247874
+      DEAD LINE TILESET_263: 643839070
+      DEAD LINE TILESET_307: -1632942794
+      DEAD LINE TILESET_210: 1343528644
+      DEAD LINE TILESET_224: 696897974
+      DEAD LINE TILESET_195: -1282761284
+      DEAD LINE TILESET_301: -2059464791
+      DEAD LINE TILESET_306: -470844687
+      DEAD LINE TILESET_79: -887641843
+      DEAD LINE TILESET_44: -1009254678
+      DEAD LINE TILESET_311: 1680733722
+      DEAD LINE TILESET_72: 1032217563
+      DEAD LINE TILESET_86: 1874956665
+      DEAD LINE TILESET_60: 1740838086
+      DEAD LINE TILESET_193: -1732490488
+      DEAD LINE TILESET_34: -298480888
+      DEAD LINE TILESET_283: -396643573
+      DEAD LINE TILESET_107: -890094800
+      DEAD LINE TILESET_319: 517375626
+      DEAD LINE TILESET_103: -1586506223
+      DEAD LINE TILESET_3: -57365243
+      DEAD LINE TILESET_189: -342977659
+      DEAD LINE TILESET_187: -1285415357
+      DEAD LINE TILESET_104: 277161275
+      DEAD LINE TILESET_298: -1077629845
+      DEAD LINE TILESET_101: 175924483
+      DEAD LINE TILESET_328: 1531106031
+      DEAD LINE TILESET_320: -982975802
+      DEAD LINE TILESET_102: 1823917522
+      DEAD LINE TILESET_110: 235799774
+      DEAD LINE TILESET_240: 2040219235
+      DEAD LINE TILESET_38: 925158530
+      DEAD LINE TILESET_284: 1024292405
+      DEAD LINE TILESET_64: -690137821
+      DEAD LINE TILESET_84: -740059289
+      DEAD LINE TILESET_322: -1302869016
+      DEAD LINE TILESET_112: -383838470
+      DEAD LINE TILESET_167: -1296861398
+      DEAD LINE TILESET_96: 1708757791
+      DEAD LINE TILESET_337: 108965464
+      DEAD LINE TILESET_134: -1465057602
+      DEAD LINE TILESET_59: 731620687
+      DEAD LINE TILESET_250: 971605727
+      DEAD LINE TILESET_201: -1865485565
+      DEAD LINE TILESET_235: 1816492424
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
