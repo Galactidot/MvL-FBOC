@@ -677,7 +677,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -15, y: -16}
+        - {x: 16, y: 15}
+        - {x: 16, y: 16}
       tessellationDetail: 0
       bones: []
       spriteID: 3d65d80fa3ae9fa40baaa58a98882c68
@@ -5261,7 +5267,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -15, y: -16}
+        - {x: 16, y: 15}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: e100c9889ae1e0742b8558c2454b9bb8
@@ -5324,7 +5336,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: 15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
       tessellationDetail: 0
       bones: []
       spriteID: 7708839802cecf64abb90c9fcb1b5870
@@ -5597,7 +5615,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -15, y: -16}
+        - {x: 16, y: 15}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: 89bff93acf5404d4f85c67d6f56552ed
@@ -5786,7 +5810,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: 15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -16}
+        - {x: -16, y: 16}
       tessellationDetail: 0
       bones: []
       spriteID: b16f3440c4f00104c8e9efca3d5279b3
@@ -6003,10 +6033,10 @@ TextureImporter:
       DEAD LINE TILESET_289: 112948458
       DEAD LINE TILESET_100: -2136842136
       DEAD LINE TILESET_303: -1453869659
-      DEAD LINE TILESET_143: 140361472
       DEAD LINE TILESET_39: -596275286
+      DEAD LINE TILESET_143: 140361472
       DEAD LINE TILESET_61: -1758854175
-      DEAD LINE TILESET_159: 361791305
+      DEAD LINE TILESET_171: -462020150
       DEAD LINE TILESET_126: 313242872
       DEAD LINE TILESET_228: 277201354
       DEAD LINE TILESET_97: -1407028256
@@ -6017,7 +6047,7 @@ TextureImporter:
       DEAD LINE TILESET_67: -1695858035
       DEAD LINE TILESET_111: 1198884974
       DEAD LINE TILESET_256: 351721874
-      DEAD LINE TILESET_171: -462020150
+      DEAD LINE TILESET_159: 361791305
       DEAD LINE TILESET_241: -1882419719
       DEAD LINE TILESET_24: 951108183
       DEAD LINE TILESET_211: -868194070

@@ -144,7 +144,7 @@ MonoBehaviour:
   idleSpinSpeed: {x: 0, y: -100, z: 0}
   fastSpinSpeed: {x: 0, y: -1800, z: 0}
   topArmBone: {fileID: 5801919727347960438}
-  playerCollider: {fileID: 0}
+  launchVelocity: {x: 0, y: 12}
 --- !u!137 &5419776802840818205
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
