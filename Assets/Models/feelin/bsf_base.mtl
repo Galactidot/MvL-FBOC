@@ -1,0 +1,232 @@
+newmtl fin0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin0.png
+map_Kd fin0.png
+map_d fin0.png
+newmtl fin10
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin10.png
+map_Kd fin10.png
+map_d fin10.png
+newmtl fin11
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin11.png
+map_Kd fin11.png
+map_d fin11.png
+newmtl fin12
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin12.png
+map_Kd fin12.png
+map_d fin12.png
+newmtl fin13
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin13.png
+map_Kd fin13.png
+map_d fin13.png
+newmtl fin14
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin14.png
+map_Kd fin14.png
+map_d fin14.png
+newmtl fin15
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin15.png
+map_Kd fin15.png
+map_d fin15.png
+newmtl fin16
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin16.png
+map_Kd fin16.png
+map_d fin16.png
+newmtl fin17
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin17.png
+map_Kd fin17.png
+map_d fin17.png
+newmtl fin19
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin19.png
+map_Kd fin19.png
+map_d fin19.png
+newmtl fin20
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin20.png
+map_Kd fin20.png
+map_d fin20.png
+newmtl fin21
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin21.png
+map_Kd fin21.png
+map_d fin21.png
+newmtl fin22
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin22.png
+map_Kd fin22.png
+map_d fin22.png
+newmtl fin23
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin23.png
+map_Kd fin23.png
+map_d fin23.png
+newmtl fin24
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin24.png
+map_Kd fin24.png
+map_d fin24.png
+newmtl fin25
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin25.png
+map_Kd fin25.png
+map_d fin25.png
+newmtl fin26
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin26.png
+map_Kd fin26.png
+map_d fin26.png
+newmtl fin27
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin27.png
+map_Kd fin27.png
+map_d fin27.png
+newmtl fin28
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin28.png
+map_Kd fin28.png
+map_d fin28.png
+newmtl fin3
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin3.png
+map_Kd fin3.png
+map_d fin3.png
+newmtl fin33
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin33.png
+map_Kd fin33.png
+map_d fin33.png
+newmtl fin36
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin36.png
+map_Kd fin36.png
+map_d fin36.png
+newmtl fin38
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin38.png
+map_Kd fin38.png
+map_d fin38.png
+newmtl fin40
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin40.png
+map_Kd fin40.png
+map_d fin40.png
+newmtl fin46
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin46.png
+map_Kd fin46.png
+map_d fin46.png
+newmtl fin47
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin47.png
+map_Kd fin47.png
+map_d fin47.png
+newmtl fin49
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin49.png
+map_Kd fin49.png
+map_d fin49.png
+newmtl fin5
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin5.png
+map_Kd fin5.png
+map_d fin5.png
+newmtl fin53
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.6901961 0.6901961 0.6901961
+d 1
+Tr 1
+map_Ka fin53.png
+map_Kd fin53.png
+map_d fin53.png
