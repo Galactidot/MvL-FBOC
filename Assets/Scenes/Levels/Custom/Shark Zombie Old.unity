@@ -104,7 +104,7 @@ NavMeshSettings:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_BuildSettings:
-    serializedVersion: 3
+    serializedVersion: 2
     agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
@@ -117,7 +117,7 @@ NavMeshSettings:
     cellSize: 0.16666667
     manualTileSize: 0
     tileSize: 256
-    buildHeightMesh: 0
+    accuratePlacement: 0
     maxJobWorkers: 0
     preserveTilesOutsideBounds: 0
     debug:
@@ -128,7 +128,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -202,16 +202,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &25214314
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -285,9 +283,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &26985378 stripped
 Transform:
@@ -300,7 +296,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -374,16 +370,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &76706633
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -457,9 +451,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &133657841
 GameObject:
@@ -497,7 +489,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 133657841}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -506,13 +497,14 @@ Transform:
   - {fileID: 1816989168}
   - {fileID: 1806823000}
   m_Father: {fileID: 0}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &174977004
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -586,16 +578,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &212557935
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -669,9 +659,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &220999633 stripped
 Transform:
@@ -696,7 +684,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -770,9 +758,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &279304417 stripped
 Transform:
@@ -803,20 +789,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 313223117}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.46, y: 5.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &402301636
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -890,9 +876,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &402974982
 GameObject:
@@ -917,7 +901,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 402974982}
-  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 2.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -925,6 +908,7 @@ Transform:
   m_Children:
   - {fileID: 410734885}
   m_Father: {fileID: 0}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &406438487 stripped
 Transform:
@@ -956,13 +940,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410734884}
-  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -3.99, y: 12.4, z: 30}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 402974983}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &410734886
 SpriteRenderer:
@@ -1033,7 +1017,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1107,9 +1091,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &461519789 stripped
 Transform:
@@ -1140,20 +1122,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 473808516}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.47, y: 6.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &493691703
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -7117426054802333166, guid: 43d56bd18d06e9b4abe323618a20a228,
@@ -1181,6 +1163,12 @@ PrefabInstance:
       propertyPath: levelName
       value: '[C] Shark Zombie'
       objectReference: {fileID: 0}
+    - target: {fileID: 5500062339093502114, guid: 43d56bd18d06e9b4abe323618a20a228,
+        type: 3}
+      propertyPath: mainMusic
+      value: 
+      objectReference: {fileID: 11400000, guid: b707c12367dde4a42b2ec398e6640347,
+        type: 2}
     - target: {fileID: 5500062339093502114, guid: 43d56bd18d06e9b4abe323618a20a228,
         type: 3}
       propertyPath: loopingLevel
@@ -1259,7 +1247,7 @@ PrefabInstance:
     - target: {fileID: 5500062339093502141, guid: 43d56bd18d06e9b4abe323618a20a228,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5500062339093502141, guid: 43d56bd18d06e9b4abe323618a20a228,
         type: 3}
@@ -1352,16 +1340,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43d56bd18d06e9b4abe323618a20a228, type: 3}
 --- !u!1001 &571566391
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1435,16 +1421,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &583535902
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1518,9 +1502,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &596240456 stripped
 Transform:
@@ -1533,9 +1515,14 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1592,9 +1579,7 @@ PrefabInstance:
       value: Spinner
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2, type: 3}
 --- !u!4 &644180842 stripped
 Transform:
@@ -1607,7 +1592,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1681,16 +1666,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &765688300
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1764,9 +1747,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &770824053
 GameObject:
@@ -1792,13 +1773,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 770824053}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.72, y: 12.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &770824055
 MonoBehaviour:
@@ -1825,7 +1806,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1899,16 +1880,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &823713584
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -1982,9 +1961,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &826104108 stripped
 Transform:
@@ -2003,7 +1980,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2077,9 +2054,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &859204836
 GameObject:
@@ -2104,7 +2079,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 859204836}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -2146,6 +2120,7 @@ Transform:
   - {fileID: 1432977412}
   - {fileID: 1767307397}
   m_Father: {fileID: 0}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &880306135 stripped
 Transform:
@@ -2177,13 +2152,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882684740}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.67, y: 21.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &882684742
 MonoBehaviour:
@@ -2204,7 +2179,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2278,16 +2253,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &937089199
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2361,9 +2334,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &941768053 stripped
 Transform:
@@ -2376,7 +2347,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2450,9 +2421,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &989400708 stripped
 Transform:
@@ -2477,7 +2446,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2551,9 +2520,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1070794738 stripped
 Transform:
@@ -2572,7 +2539,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2646,16 +2613,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &1170917918
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2729,9 +2694,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1202983688 stripped
 Transform:
@@ -2744,7 +2707,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2818,9 +2781,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1222803723 stripped
 Transform:
@@ -2833,7 +2794,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2907,16 +2868,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &1238796941
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -2990,16 +2949,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &1272902777
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -3073,9 +3030,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &1292545024
 GameObject:
@@ -3100,7 +3055,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292545024}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3114,6 +3068,7 @@ Transform:
   - {fileID: 770824054}
   - {fileID: 882684741}
   m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1294931946
 GameObject:
@@ -3138,13 +3093,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1294931946}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.46, y: 3.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1302137685
 GameObject:
@@ -3169,20 +3124,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1302137685}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -13.491, y: 8.033, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1306783805
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -3256,9 +3211,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1338990223 stripped
 Transform:
@@ -3271,7 +3224,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -3345,16 +3298,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &1419760446
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -3428,9 +3379,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1432977412 stripped
 Transform:
@@ -3443,9 +3392,14 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3502,9 +3456,7 @@ PrefabInstance:
       value: Spinner (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2, type: 3}
 --- !u!4 &1572654284 stripped
 Transform:
@@ -3517,7 +3469,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -3591,9 +3543,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1619674763 stripped
 Transform:
@@ -3654,13 +3604,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1806822999}
-  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 133657843}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!66 &1806823001
 CompositeCollider2D:
@@ -3672,25 +3622,6 @@ CompositeCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 1
   m_UsedByComposite: 0
@@ -3706,7 +3637,6 @@ CompositeCollider2D:
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0
   m_UseDelaunayMesh: 0
-  m_CompositeGameObject: {fileID: 1806822999}
 --- !u!50 &1806823002
 Rigidbody2D:
   serializedVersion: 4
@@ -3724,12 +3654,6 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -3763,25 +3687,6 @@ TilemapCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 1
   m_UsedByComposite: 1
@@ -3929,7 +3834,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -4003,9 +3908,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &1810019335 stripped
 Transform:
@@ -4041,13 +3944,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1816989167}
-  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 133657843}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!66 &1816989169
 CompositeCollider2D:
@@ -4059,25 +3962,6 @@ CompositeCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4465,7 +4349,6 @@ CompositeCollider2D:
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0
   m_UseDelaunayMesh: 0
-  m_CompositeGameObject: {fileID: 1816989167}
 --- !u!19719996 &1816989170
 TilemapCollider2D:
   m_ObjectHideFlags: 0
@@ -4476,25 +4359,6 @@ TilemapCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 1
@@ -4519,12 +4383,6 @@ Rigidbody2D:
   m_AngularDrag: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -21520,1383 +21378,1210 @@ Tilemap:
   m_AnimatedTiles:
   - first: {x: -4, y: -7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: -6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -9, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -8, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 0, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 1, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 3, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 4, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 5, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 6, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 7, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 9, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 10, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: -5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: -4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: -4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: -4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: -4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: -3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: -3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: -3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: -3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -21, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -20, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 3, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 4, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 5, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 6, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 7, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: -2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: -1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: -1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: -1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: -1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: -1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 0, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 0, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 0, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 0, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 0, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -9, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -8, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 0, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 1, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 3, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 4, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 5, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 1, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 2, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 3, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 0, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 1, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 3, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 4, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 5, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 6, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 7, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 4, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 5, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 6, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -22905,906 +22590,793 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 3, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 4, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 5, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 6, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 7, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 8, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 9, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 10, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 11, y: 7, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 8, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 9, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -25, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -24, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -9, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -8, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 10, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 11, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 12, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -28, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -27, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -25, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -24, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -21, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -20, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 13, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 14, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 15, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -28, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -23813,10 +23385,9 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -27, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1709446548163320796, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 1709446548163320796, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -23840,10 +23411,9 @@ Tilemap:
       - {fileID: 3684821612489964542, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1709446548163320796, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 1709446548163320796, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -23867,898 +23437,786 @@ Tilemap:
       - {fileID: 3684821612489964542, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 16, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 17, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 18, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 19, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 20, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 21, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 21, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 22, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 22, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -3, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -2, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -1, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 0, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 1, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: 2, y: 23, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 24, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 24, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 25, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 25, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 26, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 26, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -9, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -8, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 27, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 28, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 28, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 29, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 29, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -11, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -10, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -9, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -8, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -7, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -6, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -5, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -4, y: 30, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 31, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 31, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -28, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -27, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -25, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -24, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 32, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 33, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 33, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 33, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 34, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 34, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 34, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 34, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 35, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 35, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 35, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 35, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -28, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -24767,10 +24225,9 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -27, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -24779,10 +24236,9 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -24791,10 +24247,9 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -25, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       - {fileID: 550154214, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
@@ -24803,247 +24258,217 @@ Tilemap:
       - {fileID: 1300903088, guid: f4b7221be8b79c94c9c8919163014cb0, type: 3}
       m_AnimationSpeed: 8
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -21, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -20, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 36, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 37, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 37, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 38, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 38, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -29, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -28, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -27, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -26, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -25, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -24, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -23, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -22, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -21, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -20, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -19, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -18, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -17, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -16, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -15, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -14, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -13, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   - first: {x: -12, y: 39, z: 0}
     second:
-      serializedVersion: 2
       m_AnimatedSprites:
       - {fileID: 19611527, guid: d6bd80a542678614fb2fbb0c23098bad, type: 3}
       m_AnimationSpeed: 1
       m_AnimationTimeOffset: 0
-      m_Flags: 0
+      m_IsLooping: 1
   m_TileAssetArray:
   - m_RefCount: 0
     m_Data: {fileID: 0}
@@ -25360,7 +24785,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -25434,16 +24859,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &1941352192
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -25517,16 +24940,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1001 &2005676799
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -25600,9 +25021,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!1 &2033058033
 GameObject:
@@ -25680,22 +25099,27 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2033058033}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.9019, y: 12.7465, z: 0}
   m_LocalScale: {x: 3.1370165, y: 3.1085558, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2081195262
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 7020551328166419880, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25752,9 +25176,7 @@ PrefabInstance:
       value: Spinner (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df38f39e18bbdcf4b9b2ee15b49f1bb2, type: 3}
 --- !u!4 &2109459042 stripped
 Transform:
@@ -25786,13 +25208,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2113704063}
-  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.44, y: 12.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1292545025}
+  m_RootOrder: -2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2113704065
 MonoBehaviour:
@@ -25813,7 +25235,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
+    serializedVersion: 2
     m_TransformParent: {fileID: 859204837}
     m_Modifications:
     - target: {fileID: 3189120333888935913, guid: 946c21a210ac3094bba96c7e4190a452,
@@ -25887,9 +25309,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 946c21a210ac3094bba96c7e4190a452, type: 3}
 --- !u!4 &2119329893 stripped
 Transform:
@@ -25897,16 +25317,3 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2119329892}
   m_PrefabAsset: {fileID: 0}
---- !u!1660057539 &9223372036854775807
-SceneRoots:
-  m_ObjectHideFlags: 0
-  m_Roots:
-  - {fileID: 493691703}
-  - {fileID: 133657843}
-  - {fileID: 1292545025}
-  - {fileID: 859204837}
-  - {fileID: 402974983}
-  - {fileID: 2033058035}
-  - {fileID: 620051066}
-  - {fileID: 1564252104}
-  - {fileID: 2081195262}
