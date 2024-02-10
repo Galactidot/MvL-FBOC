@@ -136,7 +136,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -279,12 +279,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 13
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &40801665
@@ -298,7 +311,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -436,12 +449,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &40801666 stripped
@@ -461,7 +487,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -604,12 +630,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1 &134569802
@@ -654,7 +693,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -792,12 +831,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &135365896 stripped
@@ -817,7 +869,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -955,12 +1007,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &165359660 stripped
@@ -980,7 +1045,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -1123,12 +1188,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 56
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &182462590
@@ -1349,7 +1427,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -1487,12 +1565,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 17
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &224830782 stripped
@@ -1599,7 +1690,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -1737,12 +1828,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 22
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &297179457 stripped
@@ -1762,7 +1866,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -1900,12 +2004,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 43
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &307959095 stripped
@@ -1925,7 +2042,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2063,12 +2180,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 52
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &321808502 stripped
@@ -2088,7 +2218,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2226,12 +2356,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 48
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &420919264 stripped
@@ -2251,7 +2394,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2379,12 +2522,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &444621323
@@ -2398,7 +2554,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2536,12 +2692,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 33
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &444621324 stripped
@@ -2561,7 +2730,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2699,12 +2868,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 28
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &514071339 stripped
@@ -2724,7 +2906,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -2862,12 +3044,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 35
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &580179120 stripped
@@ -2918,7 +3113,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -3061,12 +3256,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 58
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &612736181
@@ -3080,7 +3288,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -3223,12 +3431,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1 &643464983
@@ -6139,7 +6360,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -6282,12 +6503,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 57
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &749810374 stripped
@@ -6307,7 +6541,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -6445,12 +6679,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &790575705 stripped
@@ -6470,7 +6717,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -6608,12 +6855,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 42
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &854837208 stripped
@@ -6633,7 +6893,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -6771,12 +7031,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 47
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &856070065 stripped
@@ -6796,7 +7069,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -6934,12 +7207,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 23
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &880589423 stripped
@@ -6965,7 +7251,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -7103,12 +7389,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 49
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &929008678 stripped
@@ -7128,7 +7427,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -7266,12 +7565,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &940975030 stripped
@@ -7584,7 +7896,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -7722,12 +8034,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 55
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &978850696 stripped
@@ -7778,7 +8103,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -7916,12 +8241,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 38
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1026401867 stripped
@@ -7941,7 +8279,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -8084,12 +8422,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 59
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &1068144656
@@ -8103,7 +8454,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -8241,12 +8592,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 51
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1068144657 stripped
@@ -8350,7 +8714,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -8488,12 +8852,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 27
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1080211268 stripped
@@ -8556,7 +8933,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -8694,12 +9071,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 29
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1186169706 stripped
@@ -8725,7 +9115,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -8863,12 +9253,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 39
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1200832789 stripped
@@ -8941,7 +9344,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9084,12 +9487,30 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &1245994743
@@ -9103,7 +9524,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9241,12 +9662,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 37
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1245994744 stripped
@@ -9266,7 +9700,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9409,12 +9843,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &1373203380
@@ -9428,7 +9875,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9566,12 +10013,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 54
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1373203381 stripped
@@ -9591,7 +10051,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9729,12 +10189,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 45
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1432319768 stripped
@@ -9760,7 +10233,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -9898,12 +10371,30 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 53
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1490804882 stripped
@@ -9923,7 +10414,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -10061,12 +10552,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 19
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1508893090 stripped
@@ -10117,7 +10621,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -10255,12 +10759,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 44
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1520305300 stripped
@@ -10280,7 +10797,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -10418,12 +10935,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 41
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1523951994 stripped
@@ -10908,7 +11438,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 2
-      m_TileSpriteIndex: 8
+      m_TileSpriteIndex: 9
       m_TileMatrixIndex: 0
       m_TileColorIndex: 1
       m_TileObjectToInstantiateIndex: 65535
@@ -10948,7 +11478,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 4
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 1
       m_TileObjectToInstantiateIndex: 65535
@@ -11195,8 +11725,8 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: -848987113, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 866249178, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: -2080516117, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
   - m_RefCount: 1
@@ -11204,9 +11734,9 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 1962056878, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
   - m_RefCount: 1
+    m_Data: {fileID: 866249178, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
+  - m_RefCount: 1
     m_Data: {fileID: -541846208, guid: 17f8809bc86557845ae9ca95c87fe5b8, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 33
     m_Data:
@@ -11266,7 +11796,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -11404,12 +11934,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 40
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1569527259 stripped
@@ -11429,7 +11972,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -11567,12 +12110,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1597649600 stripped
@@ -11750,7 +12306,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -11893,12 +12449,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1001 &1635287803
@@ -11912,7 +12481,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12050,12 +12619,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 26
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1635287804 stripped
@@ -12075,7 +12657,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12213,12 +12795,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 24
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1643237821 stripped
@@ -12238,7 +12833,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12381,7 +12976,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1653524225 stripped
@@ -12401,7 +12999,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12539,12 +13137,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 11
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1662997722 stripped
@@ -12599,7 +13210,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12747,7 +13358,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!1 &1693744772
@@ -12792,7 +13406,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -12930,12 +13544,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 21
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1728234603 stripped
@@ -13628,7 +14255,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -13766,12 +14393,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 32
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1890918235 stripped
@@ -18636,7 +19276,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -18774,12 +19414,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 34
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1926965570 stripped
@@ -18840,7 +19493,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -18978,12 +19631,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 31
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &1954585680 stripped
@@ -19096,7 +19762,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -19234,12 +19900,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 46
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &2042547989 stripped
@@ -19259,7 +19938,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -19397,12 +20076,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 18
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &2083917638 stripped
@@ -19509,7 +20201,7 @@ PrefabInstance:
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: maxY
-      value: 1000000
+      value: 10000
       objectReference: {fileID: 0}
     - target: {fileID: 549419135642806216, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
@@ -19647,12 +20339,25 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 36
       objectReference: {fileID: 0}
+    - target: {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c,
+        type: 3}
+      propertyPath: serializableViews.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9096082496902365425, guid: c47ca8bcff624cc48bd8ce919f74072c,
         type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8121598051915271649, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 6378501322455324741, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
+    - {fileID: 5683304359912364406, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c47ca8bcff624cc48bd8ce919f74072c, type: 3}
 --- !u!4 &2144510369 stripped
